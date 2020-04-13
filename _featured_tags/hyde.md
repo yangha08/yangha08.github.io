@@ -5,7 +5,7 @@ slug: hyde
 menu: true
 order: 1
 description: >
-  [Yangha Chung's CV](YHCV.html)
+  [Yangha Chung's CV]("/YHCV.html")
   
 accent_color: '#268bd2'
 accent_image:
