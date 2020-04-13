@@ -2,7 +2,7 @@
 layout: about
 title: About
 description: >
-  **헤헤**
+  **For my graduation!**
 menu: true
 order: 4
 ---
