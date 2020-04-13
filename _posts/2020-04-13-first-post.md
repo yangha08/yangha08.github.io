@@ -1,1 +1,1 @@
-This is my first post for my Github blog! Yay!
+This is my first post of my Github blog! Yay!
