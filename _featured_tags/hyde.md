@@ -1,7 +1,7 @@
 ---
 layout: list
 title: CV
-slug: hyde
+slug: cv
 menu: true
 order: 1
 description: >
