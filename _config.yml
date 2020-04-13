@@ -27,12 +27,11 @@ title:                 Yangha Chung
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Ph.D Candidate in Seoul National University
+  Wow
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  Ph.D Candidate in Seoul National University
 
 # A list of keywords for your blog
 keywords:              []
